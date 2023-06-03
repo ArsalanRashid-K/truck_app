@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+<img src="https://github.com/ArsalanRashid-K/truck_app/assets/95489514/e9798de3-3534-4192-8672-6b5725d71dee" width="400" height="800" />
+<img src="https://github.com/ArsalanRashid-K/truck_app/assets/95489514/0ff496b1-a614-4cd6-8386-fe352cc86845" width="400" height="800" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
